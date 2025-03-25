@@ -1,0 +1,5 @@
+#Ignorar archivos .xsd
+*.xsd
+
+#ignorar carpeta docs/toc_secret
+docs/
